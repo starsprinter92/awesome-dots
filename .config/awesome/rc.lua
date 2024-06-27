@@ -215,12 +215,6 @@ awful.screen.connect_for_each_screen(function(s)
         { -- Right widgets
             layout = wibox.layout.fixed.horizontal,
             --mykeyboardlayout,           
-            volumecontrol.create({
-                bgcolor = "#FFFFFF",
-                left = " ", right = " ",
-                on_click = function() do_something() end
-            }),
-
             wibox.widget.systray(),
             mytextclock,
             --s.mylayoutbox,
