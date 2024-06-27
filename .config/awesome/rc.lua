@@ -330,6 +330,13 @@ awful.key(
         awful.spawn("pactl set-sink-volume @DEFAULT_SINK@ +5%")
     end,
     {description = "increase volume", group = "system"}),
+awful.key(
+    { modkey }, "l",
+    function()
+	awful.spawn("lock")
+    end,
+    {description = "lock screen", group = "system"}),
+
 
 
 
