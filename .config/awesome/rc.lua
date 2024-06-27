@@ -597,7 +597,7 @@ autorun = true
 autorunApps = 
 { 
    "picom -fb",
-   "xautolock -time 2 -locker lock &",
+   --"xautolock -time 2 -locker lock &",
 }
 if autorun then
    for app = 1, #autorunApps do
