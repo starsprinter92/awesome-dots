@@ -6,3 +6,5 @@ picom-jonaburg
 awesome 
 rofi
 xautolock
+i3lock-color
+betterlockscreen
