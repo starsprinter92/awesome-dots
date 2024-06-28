@@ -2,6 +2,7 @@
 awesome dots! (pun intended)
 
 (gentoo)
+[UNTESTED]
 
 REQUIREMENTS:
 kitty terminal
@@ -11,4 +12,4 @@ rofi
 xautolock
 i3lock-color
 betterlockscreen
-openRC as init
+systemd as init
