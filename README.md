@@ -4,6 +4,7 @@ awesome dots! (pun intended)
 (gentoo)
 
 REQUIREMENTS:
+kitty terminal
 picom-jonaburg
 awesome 
 rofi
