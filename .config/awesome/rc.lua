@@ -46,8 +46,8 @@ end
 -- }}}
 
 -- {{{ Variable definitions
--- Themes define colours, icons, font and wallpapers.
-beautiful.init("/home/guy/.config/awesome/theme.lua")
+-- Replace theme.lua with theme-light.lua for light mode
+beautiful.init("~/.config/awesome/theme.lua")
 
 -- This is used later as the default terminal and editor to run.
 terminal = "kitty"
