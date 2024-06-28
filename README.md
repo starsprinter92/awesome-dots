@@ -10,3 +10,4 @@ rofi
 xautolock
 i3lock-color
 betterlockscreen
+openRC as init
