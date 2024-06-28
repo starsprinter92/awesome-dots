@@ -3,6 +3,7 @@ awesome dots! (pun intended)
 
 (gentoo)
 [UNTESTED]
+
 REQUIREMENTS:
 picom-jonaburg
 awesome 
