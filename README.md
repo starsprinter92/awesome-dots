@@ -1,6 +1,8 @@
 # awesome-dots
 awesome dots! (pun intended)
+
 (gentoo)
+
 REQUIREMENTS:
 picom-jonaburg
 awesome 
